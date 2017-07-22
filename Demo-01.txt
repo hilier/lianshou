@@ -1,6 +1,0 @@
-<xmls>
-   <body>
-     Hello git;¡¢
-	modyfid
-   </body>
-</xmls>
